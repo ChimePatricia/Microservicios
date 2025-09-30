@@ -1,4 +1,4 @@
-# Proyecto: Microprocesadores
+# Proyecto: Microservicios
 
 El proyecto “Microservicios” está orientado al desarrollo de aplicaciones basadas en una arquitectura distribuida, donde la funcionalidad del sistema se divide en módulos independientes (microservicios).
 Cada microservicio está diseñado para cumplir con una tarea específica (por ejemplo: gestión de usuarios, catálogo de productos, autenticación, pagos, etc.), y todos ellos se comunican entre sí mediante APIs REST o mensajería asíncrona.
